@@ -42,7 +42,7 @@
 <!-- GITHUB REPOSITORY FOOTER -->
       <footer class="footer">
     <div class="container">
-      <a href="https://github.com/BYU-CS-260-Winter-2021/lab-5-photo-bomb-dallinreber.git">Github Respository</a>
+      <a href="https://github.com/dallinreber/creative5.git">Github Respository - I spent ~20 hours</a>
     </div>
   </footer>
 
